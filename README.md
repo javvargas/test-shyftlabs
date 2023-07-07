@@ -6,7 +6,9 @@ Instructions
 This application was built on the backend with node.js, on the frontend with react.js and a mysql database. Everything is mounted in a container. To run it you need to have Docker installed and in the terminal run:
 
 cd server
+
 npm install
+
 cd ..
 
 docker compose up -d
